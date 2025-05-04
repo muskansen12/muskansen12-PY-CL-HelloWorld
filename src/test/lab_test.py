@@ -1,6 +1,6 @@
 # HelloWorldTest.py
 import unittest
-from src.main.lab import Lab
+from main.lab import Lab
 
 
 class HelloWorldTest(unittest.TestCase):
